@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_know_more_know_more_blocks",
+  "info": {
+    "displayName": "Know More Block"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "item": {
+      "displayName": "Items",
+      "type": "component",
+      "repeatable": true,
+      "component": "know-more.items"
+    }
+  }
+}

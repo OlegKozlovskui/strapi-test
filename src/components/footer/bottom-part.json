@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_footer_bottom_parts",
+  "info": {
+    "displayName": "bottom-part",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text": {
+      "type": "text"
+    },
+    "LinkText": {
+      "type": "richtext"
+    },
+    "additionalText": {
+      "type": "text"
+    }
+  }
+}

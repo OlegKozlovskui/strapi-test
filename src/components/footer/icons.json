@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_icons",
+  "info": {
+    "displayName": "icons"
+  },
+  "options": {},
+  "attributes": {
+    "icons": {
+      "displayName": "icons",
+      "type": "component",
+      "repeatable": true,
+      "component": "icons.icons"
+    }
+  }
+}

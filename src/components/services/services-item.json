@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_services_services_items",
+  "info": {
+    "displayName": "ServicesItem",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "text": {
+      "type": "string"
+    },
+    "btnText": {
+      "type": "string"
+    },
+    "Url": {
+      "type": "string"
+    }
+  }
+}

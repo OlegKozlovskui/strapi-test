@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_whistleblower_banner_whistleblower_banners",
+  "info": {
+    "displayName": "Whistleblower Banner"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}

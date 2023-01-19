@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_form_control_form_controls",
+  "info": {
+    "displayName": "Form control"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Lable": {
+      "type": "string"
+    },
+    "Placeholder": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string",
+      "default": "input"
+    },
+    "Required": {
+      "type": "boolean",
+      "default": false
+    },
+    "FullWidth": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

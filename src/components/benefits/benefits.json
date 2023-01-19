@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_benefits_benefits",
+  "info": {
+    "displayName": "Benefits"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "items": {
+      "displayName": "Benefits items",
+      "type": "component",
+      "repeatable": true,
+      "component": "benefits.benefits-items"
+    }
+  }
+}

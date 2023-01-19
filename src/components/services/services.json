@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_services_services",
+  "info": {
+    "displayName": "Services",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Items": {
+      "displayName": "ServicesItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "services.services-item"
+    },
+    "PageLinks": {
+      "displayName": "PageLinks",
+      "type": "component",
+      "repeatable": false,
+      "component": "services.page-links"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_expert_block_additional_descriptions",
+  "info": {
+    "displayName": "AdditionalDescription",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "text"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_services_page_links",
+  "info": {
+    "displayName": "PageLinks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Link": {
+      "displayName": "Links",
+      "type": "component",
+      "repeatable": true,
+      "component": "services.links"
+    }
+  }
+}

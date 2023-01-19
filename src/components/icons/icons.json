@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_icons_icons",
+  "info": {
+    "displayName": "icons"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

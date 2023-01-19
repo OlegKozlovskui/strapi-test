@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_banner_banners",
+  "info": {
+    "displayName": "Usp",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "displayName": "item",
+      "type": "component",
+      "repeatable": true,
+      "component": "banner.item"
+    }
+  }
+}

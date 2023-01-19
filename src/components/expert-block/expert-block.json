@@ -1,0 +1,45 @@
+{
+  "collectionName": "components_expert_block_expert_blocks",
+  "info": {
+    "displayName": "ExpertBlock",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "additionalDescription": {
+      "displayName": "AdditionalDescription",
+      "type": "component",
+      "repeatable": true,
+      "component": "expert-block.additional-description"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "mail": {
+      "type": "email"
+    },
+    "number": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_form_info_form_infos",
+  "info": {
+    "displayName": "Form info",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Info": {
+      "type": "text"
+    },
+    "SubmitButton": {
+      "type": "string"
+    },
+    "FormControl": {
+      "type": "component",
+      "repeatable": true,
+      "component": "form-control.form-control"
+    }
+  }
+}

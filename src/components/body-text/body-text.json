@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_body_text_body_texts",
+  "info": {
+    "displayName": "Body-Text"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}
